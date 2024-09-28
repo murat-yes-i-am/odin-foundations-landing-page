@@ -1,1 +1,1 @@
-This project shows my knowledge of such concenpts as CSS flexbox
+This project shows my skill of building page layout using CSS flexbox
