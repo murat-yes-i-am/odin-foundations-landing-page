@@ -23,6 +23,8 @@ body {
 
 .header__logo {
   margin-right: auto;
+  font-size: 24px;
+  color: var(--main-text);
 }
 
 .header__links {
