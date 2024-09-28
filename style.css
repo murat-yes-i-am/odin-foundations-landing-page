@@ -18,7 +18,7 @@ body {
   background-color: var(--dark-color);
   color: white;
   display: flex;
-  padding: 8px 15%;
+  padding: 24px 15%;
 }
 
 .header__logo {
