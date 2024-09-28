@@ -159,6 +159,36 @@ body {
   margin-right: 32px;
 }
 
+.section-fourth {
+  padding: 32px 10%;
+  justify-content: center;
+  align-items: center;
+}
+
+.call-to-action {
+  width: 70%;
+  background-color: var(--blue-color);
+  color: var(--main-text);
+  border-radius: 8px;
+  padding: 64px 10%;
+  display: flex;
+}
+
+.call-to-action__title {
+  font-size: 24px;
+  font-weight: 900;
+  margin-bottom: 8px;
+}
+
+.call-to-action__text {
+  font-size: 18px;
+  color: var(--secondary-text);
+}
+
+.call-to-action__button {
+  margin-left: auto;
+}
+
 .footer {
   background-color: var(--dark-color);
   color: white;
