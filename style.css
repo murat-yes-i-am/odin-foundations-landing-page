@@ -130,3 +130,9 @@ body {
   text-align: center;
 }
 
+.footer {
+  background-color: var(--dark-color);
+  color: white;
+  padding: 32px 15%;
+  text-align: center;
+}
