@@ -6,29 +6,29 @@ body {
   margin: 0;
 }
 
-header {
+.header {
   background-color: #1f2937;
   color: white;
   display: flex;
   padding: 8px 15%;
 }
 
-.header-logo {
+.header__logo {
   margin-right: auto;
 }
 
-.header-links {
+.header__links {
   list-style: none;
   margin: 0;
   padding: 0;
   display: flex;
 }
 
-.header-links li {
+.header__links li {
   margin-left: 16px;
 }
 
-.header-links a {
+.header__links a {
   text-decoration: none;
   color: rgba(255, 255, 255, 0.848);
 }
