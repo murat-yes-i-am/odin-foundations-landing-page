@@ -46,6 +46,7 @@ body {
 
 .section {
   display: flex;
+  min-height: 300px;
 }
 
 .section-first {
