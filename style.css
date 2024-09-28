@@ -89,3 +89,43 @@ body {
   align-items: center;
 }
 
+.section-second {
+  padding: 32px 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section-second__title {
+  color: var(--dark-color);
+  font-size: 36px;
+  font-weight: 900;
+  margin-bottom: 32px;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.card-image {
+  width: 200px;
+  height: 200px;
+  border: 4px solid var(--blue-color);
+  border-radius: 12px;
+}
+
+.card-description {
+  width: 200px;
+  font-size: 18px;
+  color: var(--dark-color);
+  text-align: center;
+}
+
